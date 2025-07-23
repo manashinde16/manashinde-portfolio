@@ -2,19 +2,14 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2020 - 2023",
+    institution: "Rajiv Gandhi College of Engineering Research and Technology",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
+    title: "Diploma - Polytechnic",
     duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    institution: "Bajaj Chandrapur Polytechnic",
+    stream: "Computer Engineering",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+];
